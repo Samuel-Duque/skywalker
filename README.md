@@ -157,4 +157,3 @@ Para construir essa aplicação, foram considerados alguns pontos importantes pa
 
 - **Cache**: O CloudFront armazena as imagens processadas, minimizando o tempo de resposta para requisições subsequentes.
 - **Escalabilidade**: A utilização de CloudFront como CDN e S3 para armazenamento garante que a aplicação seja escalável e responda rapidamente a uma grande quantidade de requisições.
-- \*\*
