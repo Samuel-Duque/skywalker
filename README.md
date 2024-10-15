@@ -65,6 +65,7 @@ AWS_BUCKET_REGION=regiao-do-bucket
 AWS_ACCESS_KEY=sua-access-key
 AWS_SECRET_ACCESS_KEY=sua-secret-access-key
 PORT=4000
+CLOUDFRONT_DOMAIN=seu-dominio-cloudfront
 ```
 
 ### 3. Executando com Docker
