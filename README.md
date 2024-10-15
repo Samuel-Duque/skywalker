@@ -40,7 +40,8 @@ Teste/
           |-- generateCacheKey.mjs  # Geração de chave de cache para as imagens
           |-- getBestFormat.mjs     # Seleciona o melhor formato de imagem
       |-- index.mjs                 # Configuração das rotas com express
-  |-- Dockerfile                 # Dockerfile para containerização da aplicação
+  |-- Dockerfile                    # Dockerfile para containerização da aplicação
+  |-- docker-compose.yml            # Configuração que facilita o gerenciamento de container
   |-- .env                       # Variáveis de ambiente
   |-- package.json               # Dependências do projeto
 ```
