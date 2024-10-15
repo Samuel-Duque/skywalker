@@ -41,7 +41,7 @@ Teste/
           |-- getBestFormat.mjs     # Seleciona o melhor formato de imagem
       |-- index.mjs                 # Configuração das rotas com express
   |-- Dockerfile                    # Dockerfile para containerização da aplicação
-  |-- docker-compose.yml            # Dependências do projeto
+  |-- docker-compose.yml            # Configuração que facilita o gerenciamento de container
   |-- .env                       # Variáveis de ambiente
   |-- package.json               # Dependências do projeto
 ```
